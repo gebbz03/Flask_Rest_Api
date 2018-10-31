@@ -1,0 +1,19 @@
+
+-----------INSTALL IN SELECTED DIRECTORY-------------
+
+--pip install virtualenv
+
+--virtualenv venv --python=python
+
+--venv\Scripts\activate.bat
+
+--deactivate
+
+
+
+
+
+
+------------------------Flask-RESTful------------------------------
+
+--pip install Flask-RESTful
